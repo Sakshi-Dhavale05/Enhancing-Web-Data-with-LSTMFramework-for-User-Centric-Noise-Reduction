@@ -3,20 +3,20 @@ This project aims to improve the quality of web-scraped data by using an LSTM-ba
 It offers a simple web-based interface (using Streamlit) where users can log in, input a website URL, scrape the content, clean it, and download the enhanced text.
 
 🚀 Features:
-🔒 User Login and Sign-Up
-🌐 Web scraping of real-time webpage data
-🧹 Dynamic Noise Reduction using LSTM model
-📄 Downloadable Cleaned Content
-📊 Modern UI with easy navigation (Login, Signup, Dashboard)
+- 🔒 User Login and Sign-Up
+- 🌐 Web scraping of real-time webpage data
+- 🧹 Dynamic Noise Reduction using LSTM model
+- 📄 Downloadable Cleaned Content
+- 📊 Modern UI with easy navigation (Login, Signup, Dashboard)
 
 🛠 Technologies Used:
-Python 3.8+,
-Streamlit (Frontend and Web App framework),
-BeautifulSoup4 (Web Scraping),
-NLTK (Text Tokenization),
-TensorFlow (LSTM Model),
-Scikit-learn (Data preprocessing),
-Pickle (Model serialization).
+- Python 3.8+
+- Streamlit (Frontend and Web App framework)
+= BeautifulSoup4 (Web Scraping)
+= NLTK (Text Tokenization)
+- TensorFlow (LSTM Model)
+- Scikit-learn (Data preprocessing)
+- Pickle (Model serialization)
 
 📦 Installation:
 
